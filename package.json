@@ -1,6 +1,6 @@
 {
   "name": "const-log2e",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Base 2 logarithm of Euler's number.",
   "author": {
     "name": "Athan Reines",
