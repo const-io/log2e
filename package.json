@@ -37,6 +37,7 @@
     "constant",
     "const",
     "log",
+    "log2",
     "logarithm",
     "euler",
     "number",
