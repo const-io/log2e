@@ -43,7 +43,9 @@
     "number",
     "napier",
     "E",
-    "e"
+    "e",
+    "log2e",
+    "math.log2e"
   ],
   "bugs": {
     "url": "https://github.com/const-io/log2e/issues"
